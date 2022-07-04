@@ -15,11 +15,9 @@ Actually:
 
 [![img_contact](./img/globe-light.svg)](https://antoinedabonneville.fr/#gh-light-mode-only)
 [![img_contact](./img/globe-dark.svg)](https://antoinedabonneville.fr/#gh-dark-mode-only)
-&nbsp;&nbsp;
 
 [![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/antoinedabonneville/#gh-light-mode-only)
 [![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/antoinedabonneville/#gh-dark-mode-only)
-&nbsp;&nbsp;
 
 
 ### Languages and Tools:
