@@ -1,4 +1,4 @@
-# Antoine-Dabonneville
+# Antoine Dabonneville
 
 I'm Antoine from France, living in Toulouse ☀, FullStack developper junior. I really enjoy learning languages and frameworks like JS and React. 
 
